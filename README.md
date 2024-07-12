@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 🔭 Developer who loves to travel, learn new things, and explore technology.<br>
-📌 I’m currently working on Rava.ai <br>
-🌱 Exploring the world of AI <br>
+📌 I’m currently working as a Software Developer at Rava.ai. <br>
+🌱 Exploring the world of AI. <br>
 📫 How to reach me workyagyaraj@gmail.com <br>
 ⚡ Fun fact I am little bit lazy :>) but always excited to learn new things. <br>
 
