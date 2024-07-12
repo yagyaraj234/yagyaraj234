@@ -1,4 +1,4 @@
-### Hi there 👋
+  ### Hi there 👋
 
 <!--
 **yagyaraj234/yagyaraj234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I'm a Engineering Student<br>
-🌱 I’m currently exploring the world of Web3<br>
-💬 Ask me about Web & Cpp <br>
+🔭 Developer who loves to travel, learn new things, and explore technology.<be>
+📌 I’m currently working on Skillrazr
+🌱 Exploring the world of AI <br>
 📫 How to reach me workyagyaraj@gmail.com <br>
 ⚡ Fun fact I am little bit lazy :>) but always excited to learn new things. <br>
 
