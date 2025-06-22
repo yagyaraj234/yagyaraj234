@@ -2,7 +2,7 @@
 
 Just a dev building fast software, exploring AI, and always down to learn something new.
 
-- 💼 Software Developer @ Rava.ai  
+- 💼 Software Developer [@ Rava.ai][https://rava.ai] 
 - 🛠️ React, Node.js, TypeScript, MongoDB  
 - 🌱 Currently diving deeper into AI & systems  
 - 📫 Reach me: [hey@yagyaraj.com](mailto:hey@yagyaraj.com)
